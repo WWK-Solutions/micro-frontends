@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  border: 2px solid black;
+  margin: 5px;
+  min-height: 40vh;
+}
+
+.react-logo{
+  height: 90px;
+}
+
+.main-app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #d7d4d4;
+  min-height: 32vh;
+}
+
+.main-app h1 {
+  font-size: 18px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 100px;
+}
+
+.is-active {
+  color: #000000;
+  background: #d6e5fb;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 5px;
+}
+
+.routes {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  vertical-align:middle;
+}

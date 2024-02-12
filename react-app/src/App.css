@@ -1,0 +1,17 @@
+.reactApp {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 1rem;
+  background-color: #8bf3f3;
+  line-height: 36px;
+  display: flex;
+  min-height: 28vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-app-logo {
+  height: 90px;
+  vertical-align: middle;
+}

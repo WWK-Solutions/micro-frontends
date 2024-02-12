@@ -1,0 +1,13 @@
+.ng-app {
+  background-color: #ffcbcb;
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  min-height: 32vh;
+  align-items: center;
+  justify-content: center;
+}
+.angular-logo{
+  height: 70px;
+  margin-left: 20px;
+}

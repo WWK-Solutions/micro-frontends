@@ -1,0 +1,15 @@
+{
+  "name": "custom-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd react-shell-app && npm run start\" \"cd react-header-app && npm start\" \"cd angular-app && npm run start\" \"cd react-app && npm run start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

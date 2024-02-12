@@ -1,0 +1,20 @@
+.headerApp {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 1rem;
+  background-color: #0088ad;
+  color: white;
+  margin-bottom: 20px;
+}
+.header-react-logo {
+  height: 50px;
+  vertical-align: middle;
+}
+
+.Footer {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 1rem;
+  background-color: #0088ad;
+  color: white;
+}
